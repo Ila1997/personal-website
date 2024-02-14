@@ -21,7 +21,7 @@ This is my portfolio website, created with HTML, CSS and JavaScript. It can be u
 
 :envelope: It has a "contact" section where you can send me and email if you have questions or if you're interested in my work.
 
-You can also switch from dark theme to light theme, here's the view in light mode:
+You can also switch from dark to light theme. Here's the view in light mode:
 
 ![Immagine](https://i.ibb.co/pn74myx/portfolio-light.png)
 ______
